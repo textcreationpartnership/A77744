@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Duke of Buckingham his speech to the King in Parliament Aprill 4. 1628.</title>
+            <author>Buckingham, George Villiers, Duke of, 1592-1628.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77744</idno>
+            <idno type="STC">Wing B5308B</idno>
+            <idno type="STC">Thomason E196_46</idno>
+            <idno type="STC">ESTC R9744</idno>
+            <idno type="EEBO-CITATION">99873608</idno>
+            <idno type="PROQUEST">99873608</idno>
+            <idno type="VID">157472</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157472)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E196[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Duke of Buckingham his speech to the King in Parliament Aprill 4. 1628.</title>
+                  <author>Buckingham, George Villiers, Duke of, 1592-1628.</author>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Domini, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Speech made at the Council-table expressing gratification at the improved relations betweeen king and parliament after the granting of the five subsidies.--Cf. Rushworth, J. Historical collections.  London, 1721. v. 1, p. 525.</note>
+                  <note>First published London, 1628.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157472:1" rendition="simple:additions"/>
+            <p>THE Duke of Buckingham HIS SPEECH To the King in <hi>Parliament Aprill</hi> 4. 1628.</p>
+            <p>
+               <hi>LONDON</hi> Printed <hi>Anno Domini,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157472:2"/>
+            <pb n="1" facs="tcp:157472:2"/>
+            <head>The Duke of <hi>Buckingham</hi> having beene all the day ill diſpoſed in his health, and his coun<g ref="char:EOLhyphen"/>tenance verie ſad, ſtood up and ſaid.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>E thinks, I now behold you a a great <hi>King,</hi> for love is greater then <hi>Majeſtie.</hi> Opinion, that your people lov'd you not, had almoſt loſt you in the opinion of the World: but this day makes you appeare as you are, <hi>A glorious King,</hi> loved at home, and now, to be feared abroad. This falling out ſo happily, give me leave, I beſeech you, to be an humble Suitor to your Majeſtie, that I, who have had the honour to be your <hi>Fa<g ref="char:EOLhyphen"/>vourite,</hi> may now give up that title unto them: They to be your <hi>Favourite,</hi> and I to be your ſervant. My ſecond ſuit is, That they having done ſo well, you will ac<g ref="char:EOLhyphen"/>count of them all as one: A body of many Subjects, but all of one heart. Opinion
+<pb n="2" facs="tcp:157472:3"/> might have made them differ; but Affecti<g ref="char:EOLhyphen"/>on did move them all to joyne with like love, in this great gift: which, though for proportion it be leſſe then your occaſions may aske, Yet is it more then ever ſubjects did give in ſo ſhort a time. Nor am I per<g ref="char:EOLhyphen"/>ſwaded it will reſt here; For this is but as an earneſt of their affections; to let you ſee, and the World know, what ſubjects you have: and that when your Honour, and the good of the <hi>State</hi> is engaged, and <hi>Aid</hi> askt, in the ordinary way of a <hi>Parliament,</hi> you cannot want; This gift not being five <hi>Subſidies</hi> alone, but the opening of a <hi>Mine</hi> of <hi>Subſides,</hi> which lyes in their hearts. This good beginning hath wrought alreadie theſe effects; That they have taken your heart, Drawne from you a Declaration, that again you will love <hi>Parliaments;</hi> and this will be met (I make no queſtion) with ſuch reſpect, that their Demands will bee juſt, dutifull, and moderate. For they that know thus to give, know well what is fit to aske. Then cannot your <hi>Majeſtie</hi> but out<g ref="char:EOLhyphen"/>go their Demands, or elſe, you doe leſſe
+<pb n="3" facs="tcp:157472:3"/> then your ſelfe or them: For your <hi>Meſsage</hi> begot truſt, Their truſt of your promiſes, muſt then beget performance; And this beeing done, then ſhall I (with a glad heart) hold this work as well ended, as it is now begun. Then ſhall I hope that <hi>Par<g ref="char:EOLhyphen"/>liaments</hi> ſhall bee made hereafter ſo fre<g ref="char:EOLhyphen"/>quent by the effects, and good uſe of them, as ſhall have this further benefit, to deterre from approching your eares, thoſe Proje<g ref="char:EOLhyphen"/>ctors, and inducers of innovation, that di<g ref="char:EOLhyphen"/>ſturbe both <hi>Church</hi> and <hi>Common-wealth,</hi> and who dare not appeaer but at theſe times, when they judge there is no Vnion of hearts and affections, between your <hi>Maje<g ref="char:EOLhyphen"/>ſtie,</hi> and your people.</p>
+            <p>And give mee leave Sir, to ſay, that this <hi>Parliament</hi> hath given mee more then your felf, ſince they have now, by giving them<g ref="char:EOLhyphen"/>ſelves to you, given mee liberty, to ſerve both in one, without jealouſie in either: So that now, I am in more then a hope to re-gaine that which I eſteeme dearer then my life, that is, their love.</p>
+            <p>And Sir, to open my heart, and eaſe my
+<pb n="4" facs="tcp:157472:4"/> griefs, May it pleaſe you to pardon me a word more. I muſt confeſſe, I have long lived in pain; Sleep hath given me no reſt; Favours and Fortunes, no content: ſuch have bin my ſecret ſorrows, to be thought the man of <hi>ſeperation,</hi> which divided the <hi>King</hi> from his people; and them from him. But I hope it ſhall appeare, They were but ſome miſtaken minds, that would have made me the evill ſpirit, that wrought ill Offices, betweene a good Maſter, and his Loyall ſubjects; whereas, by your <hi>Maje<g ref="char:EOLhyphen"/>ſties</hi> favour I ſhall ever endeavour, to ap<g ref="char:EOLhyphen"/>prove my ſelfe a good ſpirit, breathing no<g ref="char:EOLhyphen"/>thing but the beſt of ſervices to them all: And therefore this day. I account more bleſt to mee then my birth day, to ſee my ſelfe able to ſerve them; To ſee you brought in love with <hi>Parliaments,</hi> And a <hi>Parliament</hi> to expreſſe ſuch love to you.</p>
+            <p>Love them I beſeech you: And God ſo love me and mine, as I joy to ſee this day.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
